@@ -1,3 +1,24 @@
 [submodule "spy"]
 	path = spy
 	url = https://github.com/saviski/ski-spy
+[submodule "all"]
+	path = all
+	url = https://github.com/saviski/ski-all
+[submodule "decorators"]
+	path = decorators
+	url = https://github.com/saviski/ski-decorators
+[submodule "elements"]
+	path = elements
+	url = https://github.com/saviski/ski-elements
+[submodule "evalstream"]
+	path = evalstream
+	url = https://github.com/saviski/ski-evalstream
+[submodule "events"]
+	path = events
+	url = https://github.com/saviski/ski-events
+[submodule "mixins"]
+	path = mixins
+	url = https://github.com/saviski/ski-mixins
+[submodule "streams"]
+	path = streams
+	url = https://github.com/saviski/ski-streams
