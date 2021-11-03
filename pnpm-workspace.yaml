@@ -1,0 +1,11 @@
+packages:
+  - "all"
+  - "data"
+  - "decorators"
+  - "elements"
+  - "evalstream"
+  - "events"
+  - "examples"
+  - "mixins"
+  - "spy"
+  - "streams"
